@@ -15,3 +15,16 @@ heavily important view to unit testing which changed the way I will approach thi
 topic in the future.
 
 --Kevin Maldjian
+
+## **Additional Comments**
+
+
+
+--Anandini Chawla 
+
+The author gives a solid insight into pros and cons of units testing and end-to-end integration tests. Unit testing
+is a more common approach it is interesting to note that end-to-end integration tests may be more economical and
+useful. Additionally, end-to-end integration tests will also save time, as they negate unnecesary testing to edge
+cases, which require considerable degugging and refactoring. 
+
+
